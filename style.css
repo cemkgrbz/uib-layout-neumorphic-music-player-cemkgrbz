@@ -47,7 +47,7 @@ h1 {
     margin: 1rem auto;
 }
 
-.fa-circle-play {
+.fa-power-off {
     color: red;
 }
 
@@ -109,7 +109,7 @@ background: linear-gradient(90deg, rgba(132,194,244,1) 0%, rgba(37,120,210,1) 59
 background: #ebebeb;
 box-shadow:  -5px 5px 26px #b3b3b1,
              5px -5px 26px #ffffff;
-    color: #494949;
+    color: #343434;
 }
 
 .play {
