@@ -62,7 +62,7 @@ h1 {
     width: 20rem;
     height: 20rem;
     margin: 2rem auto;
-    background-image: url(/assets/track-image.jpeg);
+    background-image: url(./assets/track-image.jpeg);
     background-size: contain;
     border-radius: 50%;
     box-shadow:  -7px 7px 14px #6d6d6d,
