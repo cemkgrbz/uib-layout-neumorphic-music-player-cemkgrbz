@@ -1,7 +1,7 @@
 ## Live Version
 
 https://cemkgrbz.github.io/uib-layout-neumorphic-music-player-cemkgrbz/
-
+ 
 # Neumorphic Music Player
 
 Let's polish up our UI skills and practice Flexbox layouts by creating the music player shown below -
